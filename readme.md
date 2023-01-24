@@ -10,4 +10,4 @@ Thanks for a great semester!
 
 [IRT Dreamscapes Demonstration](https://drive.google.com/file/d/1y1tkg6jC1IjSsk1Xvd3ywngkdzdK-L4L/view?usp=sharing)
 
-[IRT Dreamscapes Site](cs464t2.html)
+[IRT Dreamscapes Site](Website/cs464t2.html)
