@@ -1,5 +1,9 @@
 # Image Rehearsal Therapy Dreamscapes
 
+CS 464 Final Project Spring 22
+Author: Shannon Stoehr
+email: secstoehr@gmail.com
+
 ![Using a personalized dreamscape.](irt_exp.jpg)
 
 [Original CS 464 GitHub repo](https://github.com/csu-hci-projects/Image-Rehearsal-Therapy-Dreamscapes/tree/main)
