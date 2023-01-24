@@ -1,6 +1,6 @@
 # Image Rehearsal Therapy Dreamscapes
 
-![Using a personalized dreamscape.](irt_exp.jpeg)
+![Using a personalized dreamscape.](irt_exp.jpg)
 
 Thanks for a great semester!
 
