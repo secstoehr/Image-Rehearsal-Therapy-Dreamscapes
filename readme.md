@@ -1,7 +1,9 @@
 # Image Rehearsal Therapy Dreamscapes
 
 CS 464 Final Project Spring 22
+
 Author: Shannon Stoehr
+
 email: secstoehr@gmail.com
 
 ![Using a personalized dreamscape.](irt_exp.jpg)
