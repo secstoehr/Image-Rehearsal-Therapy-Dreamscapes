@@ -2,9 +2,7 @@
 
 ![Using a personalized dreamscape.](irt_exp.jpg)
 
-Thanks for a great semester!
-
-[GitHub repo](https://github.com/csu-hci-projects/Image-Rehearsal-Therapy-Dreamscapes/tree/main)
+[Original CS 464 GitHub repo](https://github.com/csu-hci-projects/Image-Rehearsal-Therapy-Dreamscapes/tree/main)
 
 [IRT Dreamscapes Presentation](https://drive.google.com/file/d/1YHjyLXra3d8OLBcl1SXpAn5CuqnTNgd4/view?usp=sharing)
 
